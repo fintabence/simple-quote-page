@@ -26,3 +26,9 @@ body {
   text-transform: uppercase;
   letter-spacing: .05em
 }
+
+.author {
+  font-family: serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
