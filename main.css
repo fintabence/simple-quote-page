@@ -48,10 +48,10 @@ a {
   border-radius: 10px;
 }
 
-a:active {
-  background-color: yellow;
+a:hover {
+  background-color: brown;
+  color: white;
 }
-
 
 
 
